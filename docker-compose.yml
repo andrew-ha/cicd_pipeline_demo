@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  net-core:
+    image: netcore
+    build:
+      context: .
+      dockerfile: net-core/Dockerfile

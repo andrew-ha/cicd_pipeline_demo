@@ -1,0 +1,13 @@
+﻿version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo Build started on `date`
+      - dotnet clean
+      - dotnet restore -nowarn:msb3202,nu1503 cat-api/cat-api.csproj
+      - dotnet build -c Release -o /app cat-api/cat-api.csproj
+      - dotnet publish -c Release -o /app cat-api/cat-api.csproj
+
+artifacts:
+    files: /app/*

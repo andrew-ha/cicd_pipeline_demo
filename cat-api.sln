@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cat-api", "cat-api\cat-api.csproj", "{2467B2EC-BD18-4247-A215-78B6A9C1B2F2}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "build", "build.dcproj", "{9BF26C43-9769-4CC8-899F-69C462067375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2467B2EC-BD18-4247-A215-78B6A9C1B2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2467B2EC-BD18-4247-A215-78B6A9C1B2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2467B2EC-BD18-4247-A215-78B6A9C1B2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2467B2EC-BD18-4247-A215-78B6A9C1B2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2467B2EC-BD18-4247-A215-78B6A9C1B2F2}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{2467B2EC-BD18-4247-A215-78B6A9C1B2F2}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{9BF26C43-9769-4CC8-899F-69C462067375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF26C43-9769-4CC8-899F-69C462067375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF26C43-9769-4CC8-899F-69C462067375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF26C43-9769-4CC8-899F-69C462067375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF26C43-9769-4CC8-899F-69C462067375}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF26C43-9769-4CC8-899F-69C462067375}.Default|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal

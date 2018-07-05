@@ -1,0 +1,14 @@
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/bin/Debug/netcoreapp2.1/cat-api.deps.json
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/bin/Debug/netcoreapp2.1/cat-api.runtimeconfig.json
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/bin/Debug/netcoreapp2.1/cat-api.runtimeconfig.dev.json
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/bin/Debug/netcoreapp2.1/cat-api.dll
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/bin/Debug/netcoreapp2.1/cat-api.pdb
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/obj/Debug/netcoreapp2.1/cat-api.csprojAssemblyReference.cache
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/obj/Debug/netcoreapp2.1/cat-api.csproj.CoreCompileInputs.cache
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/obj/Debug/netcoreapp2.1/cat-api.RazorAssemblyInfo.cache
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/obj/Debug/netcoreapp2.1/cat-api.RazorAssemblyInfo.cs
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/obj/Debug/netcoreapp2.1/cat-api.AssemblyInfoInputs.cache
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/obj/Debug/netcoreapp2.1/cat-api.AssemblyInfo.cs
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/obj/Debug/netcoreapp2.1/cat-api.RazorTargetAssemblyInfo.cache
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/obj/Debug/netcoreapp2.1/cat-api.dll
+/Users/lebrend/Documents/WorkDocs/Training/SYD-Deployment-TechTalks/July2018-CICDLearnAndHire/app/cat-api/cat-api/obj/Debug/netcoreapp2.1/cat-api.pdb
